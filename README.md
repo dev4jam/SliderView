@@ -1,12 +1,11 @@
-# **SliderView for SwiftUI **
+# SliderView for SwiftUI
 SliderView is an open-source SwiftUI package for a native Slider drop-in replacement. This package provides a variety of customization options such as thumb size, color, guide bar style, tracking bar color, and many more, making it the best choice for your user interface needs.
 
 [![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20macOS-blue?style=flat-square)](https://developer.apple.com/macOS)
 [![iOS](https://img.shields.io/badge/iOS-14.0-blue.svg)](https://developer.apple.com/iOS)
 [![macOS](https://img.shields.io/badge/macOS-11.0-blue.svg)](https://developer.apple.com/macOS)
 [![tvOS](https://img.shields.io/badge/tvOS-14.0-blue.svg)](https://developer.apple.com/tvOS)
-[![instagram](https://img.shields.io/badge/instagram-@it.jedi.au.svg?style=flat-square)](https://www.instagram.com/it.jedi.au)
-[![SPM](https://img.shields.io/badge/SPM-compatible-red?style=flat-square)](https://developer.apple.com/documentation/swift_packages/package/)
+[![SPM](https://img.shields.io/badge/SPM-compatible-green?style=flat-square)](https://developer.apple.com/documentation/swift_packages/package/)
 [![MIT](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)  
 
 ## Features
