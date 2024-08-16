@@ -1,5 +1,4 @@
 # SliderView for SwiftUI
-SliderView is an open-source SwiftUI package for a native Slider drop-in replacement. This package provides a variety of customization options such as thumb size, color, guide bar style, tracking bar color, and many more, making it the best choice for your user interface needs.
 
 [![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20macOS-blue?style=flat-square)](https://developer.apple.com/macOS)
 [![iOS](https://img.shields.io/badge/iOS-14.0-blue.svg)](https://developer.apple.com/iOS)
@@ -7,6 +6,10 @@ SliderView is an open-source SwiftUI package for a native Slider drop-in replace
 [![tvOS](https://img.shields.io/badge/tvOS-14.0-blue.svg)](https://developer.apple.com/tvOS)
 [![SPM](https://img.shields.io/badge/SPM-compatible-green?style=flat-square)](https://developer.apple.com/documentation/swift_packages/package/)
 [![MIT](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)  
+
+SliderView is an open-source SwiftUI package for a native Slider drop-in replacement. This package provides a variety of customization options such as thumb size, color, guide bar style, tracking bar color, and many more, making it the best choice for your user interface needs.
+
+![](Demo/Generic-Demo.png)
 
 ## Features
 
@@ -80,6 +83,7 @@ struct ContentView: View {
     }
 }
 ```
+![](Demo/Exposure-Demo.png)
 
 To further customize the `SliderView`, you can specify other properties as per your needs. Refer to Demo project for more examples.
 
@@ -87,8 +91,8 @@ To further customize the `SliderView`, you can specify other properties as per y
 Contributions to the `SliderView` project are welcome! Feel free to open a new issue or send a pull request, if you happen to find a bug, or would like to add any new features.
 
 ## Contact
-instagram : [@it.jedi.au](https://www.instagram.com/it.jedi.au)  
-email : [it.jedi.au@gmail.com](mailto:it.jedi.au@gmail.com)
+Instagram : [@it.jedi.au](https://www.instagram.com/it.jedi.au)  
+Email : [it.jedi.au@gmail.com](mailto:it.jedi.au@gmail.com)
 
 ## License
 `SliderView` is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
